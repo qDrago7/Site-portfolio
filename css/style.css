@@ -30,23 +30,43 @@ header li {
 }
 
 .anav {
-    margin: 0px 40px 0px 0px;  
+    margin: 0px 40px 0px 0px;
+}
+
+.anav:hover {
+    text-decoration: underline;
 }
 
 .snav {
     margin: 0px 40px 0px 0px;
 }
 
+.snav:hover {
+    text-decoration: underline;
+}
+
 .dnav {
     margin: 0px 40px 0px 0px;
+}
+
+.dnav:hover {
+    text-decoration: underline;
 }
 
 .fnav {
     margin: 0px 40px 0px 0px;
 }
 
+.fnav:hover {
+    text-decoration: underline;
+}
+
 .gnav {
     margin: 0px 40px 0px 0px;
+}
+
+.gnav:hover {
+    text-decoration: underline;
 }
 
 .main img {
@@ -317,4 +337,5 @@ footer {
 
 #sb:hover {
     background: #43045c31;
+
 }
