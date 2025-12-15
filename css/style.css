@@ -96,6 +96,7 @@ header li {
 
 .MObomne img {
     width: 700px;
+    height: 600px;
     margin: 50px 50px 0px 200px;
 }
 
@@ -337,4 +338,5 @@ footer {
 
 #sb:hover {
     background: #43045c31;
+
 }
